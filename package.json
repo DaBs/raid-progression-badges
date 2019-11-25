@@ -1,0 +1,23 @@
+{
+  "name": "raid-progression-badges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "@hapi/vision": "^5.5.4",
+    "badgen": "^3.0.1",
+    "handlebars": "^4.5.3",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/hapi__hapi": "^18.2.6",
+    "@types/hapi__vision": "^5.5.1",
+    "@types/node-fetch": "^2.5.4"
+  }
+}
