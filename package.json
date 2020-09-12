@@ -13,7 +13,7 @@
     "@hapi/vision": "^5.5.4",
     "badgen": "^3.0.1",
     "handlebars": "^4.5.3",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@types/hapi__hapi": "^18.2.6",
